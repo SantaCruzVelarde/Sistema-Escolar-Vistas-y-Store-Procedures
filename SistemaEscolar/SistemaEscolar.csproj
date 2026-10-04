@@ -1,0 +1,66 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="6.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="AgregarEditarAcademico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgregarEditarAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgregarEditarCarrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgregarEditarCiudad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgregarEditarEstado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgregarEditarEstatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgregarEditarPais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgregarEditarMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaAula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaAcademico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaCarrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaCiudad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaEstado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaEstatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaPais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>

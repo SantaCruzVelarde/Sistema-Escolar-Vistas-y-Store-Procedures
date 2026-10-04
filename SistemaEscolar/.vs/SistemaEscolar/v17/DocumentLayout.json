@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlo\\source\\repos\\SistemaEscolar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E967B638-7B5C-4D83-9A66-5677B95F52E9}|SistemaEscolar.csproj|c:\\users\\carlo\\source\\repos\\sistemaescolar\\agregareditaracademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E967B638-7B5C-4D83-9A66-5677B95F52E9}|SistemaEscolar.csproj|solutionrelative:agregareditaracademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967B638-7B5C-4D83-9A66-5677B95F52E9}|SistemaEscolar.csproj|c:\\users\\carlo\\source\\repos\\sistemaescolar\\ventanaacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E967B638-7B5C-4D83-9A66-5677B95F52E9}|SistemaEscolar.csproj|solutionrelative:ventanaacademico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967B638-7B5C-4D83-9A66-5677B95F52E9}|SistemaEscolar.csproj|c:\\users\\carlo\\source\\repos\\sistemaescolar\\agregareditarmateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E967B638-7B5C-4D83-9A66-5677B95F52E9}|SistemaEscolar.csproj|solutionrelative:agregareditarmateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967B638-7B5C-4D83-9A66-5677B95F52E9}|SistemaEscolar.csproj|c:\\users\\carlo\\source\\repos\\sistemaescolar\\ventanamateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E967B638-7B5C-4D83-9A66-5677B95F52E9}|SistemaEscolar.csproj|solutionrelative:ventanamateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E967B638-7B5C-4D83-9A66-5677B95F52E9}|SistemaEscolar.csproj|C:\\Users\\carlo\\source\\repos\\SistemaEscolar\\ventanamain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E967B638-7B5C-4D83-9A66-5677B95F52E9}|SistemaEscolar.csproj|solutionrelative:ventanamain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VentanaMain.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\SistemaEscolar\\VentanaMain.cs",
+              "RelativeDocumentMoniker": "VentanaMain.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\SistemaEscolar\\VentanaMain.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VentanaMain.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T07:57:58.898Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentanaMateria.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\SistemaEscolar\\VentanaMateria.cs",
+              "RelativeDocumentMoniker": "VentanaMateria.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\SistemaEscolar\\VentanaMateria.cs",
+              "RelativeToolTip": "VentanaMateria.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:27:20.313Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgregarEditarMateria.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\SistemaEscolar\\AgregarEditarMateria.cs",
+              "RelativeDocumentMoniker": "AgregarEditarMateria.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\SistemaEscolar\\AgregarEditarMateria.cs",
+              "RelativeToolTip": "AgregarEditarMateria.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAuwFcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:30:00.21Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentanaAcademico.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\SistemaEscolar\\VentanaAcademico.cs",
+              "RelativeDocumentMoniker": "VentanaAcademico.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\SistemaEscolar\\VentanaAcademico.cs",
+              "RelativeToolTip": "VentanaAcademico.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAYwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:53:49.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgregarEditarAcademico.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\SistemaEscolar\\AgregarEditarAcademico.cs",
+              "RelativeDocumentMoniker": "AgregarEditarAcademico.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\SistemaEscolar\\AgregarEditarAcademico.cs",
+              "RelativeToolTip": "AgregarEditarAcademico.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAWwG8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:53:51.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
